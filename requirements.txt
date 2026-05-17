@@ -1,0 +1,7 @@
+# Dependências principais para análise de dados e execução do notebook
+pandas==3.0.3
+numpy==2.4.5
+seaborn==0.13.2
+matplotlib==3.10.9
+ipykernel==7.2.0
+kagglehub==1.0.1
